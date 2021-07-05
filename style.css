@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.grid img {
+    border:crimson;
+    border-radius: 50px;
+}
+.origami p {
+    border-radius: 20px;
+    width: 310px;
+    font-family: fantasy;
+    border:solid;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color:lightseagreen;
+}
